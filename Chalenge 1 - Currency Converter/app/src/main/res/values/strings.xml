@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="select_country">Select Country</string>
+    <string name="search">search…</string>
+    <string name="convertBtn">Convert</string>
+    <string name="resultHint">0.0</string>
+    <string name="resultTitle">-- Result --</string>
+    <string name="amountHint">0.0</string>
+    <string name="amountTitle">Amount</string>
+    <string name="convertHint">Select Country</string>
+    <string name="convertToTitle">To</string>
+    <string name="convertFromTitle">From</string>
+    <string name="header">Currency Converter</string>
+    <string name="validator">----- please select all fields -----</string>
+    <string name="error_fetching_data">Error fetching data</string>
+</resources>
