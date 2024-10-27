@@ -55,6 +55,9 @@ private final static String API_KEY = "your-api-key";
 - **UI Management**: Uses `CardView` and `FrameLayout` for a clean and responsive UI.
 - **Null Safety**: Implemented null safety to prevent unexpected crashes.
 
+## Download Debug APK
+[Download Debug APK here](./app-debug.apk)
+
 ## Demo Video/GIF
 Watch a demo of the app in action: 
 ![Demo GIF](./demo-gif.gif)
